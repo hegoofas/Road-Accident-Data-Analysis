@@ -30,3 +30,8 @@ An interactive and dynamic dashboard was created to visualize the insights clear
 
 ## 💡 Summary
 This project demonstrates how proper data cleaning, visual analysis, and interactive dashboards can generate powerful insights that support reducing accidents and improving road safety.
+
+## 🔗 Linked
+- [Full Dataset And Dashboard (Google Drive)][(https://drive.google.com/your-dataset-link)](https://docs.google.com/spreadsheets/d/1_lQyLbMD1RKN8VEwOtLov0EA0bF194NH/edit?usp=drive_link&ouid=109295404802615903135&rtpof=true&sd=true)
+
+
